@@ -1,4 +1,4 @@
-# -Pneumonia-Detection
+
 🩺 Pneumonia Detection from Chest X-Rays
 
 This project uses Deep Learning (CNNs) to detect pneumonia from chest X-ray images. The model is trained on a dataset of chest X-ray scans and achieves 97.12% accuracy on the test set.
